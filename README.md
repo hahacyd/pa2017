@@ -4,11 +4,7 @@ This is the code for the 'Programming Assignment' for the course 'Introduction t
 
 # OS setup
 
-Debian 32-bit with desktop environment (tested with MATE)
-
-# Get the code:
-
-git clone https://github.com/ics-pa/pa2017.git
+Debian or Ubuntu 32-bit with desktop environment (tested with MATE)
 
 # Note
 
