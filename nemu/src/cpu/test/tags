@@ -1,0 +1,60 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AF	alu_test.c	/^		uint32_t AF :1;$/;"	m	struct:__anon1::__anon2	file:
+CF	alu_test.c	/^		uint32_t CF :1;$/;"	m	struct:__anon1::__anon2	file:
+DF	alu_test.c	/^		uint32_t DF :1;$/;"	m	struct:__anon1::__anon2	file:
+IF	alu_test.c	/^		uint32_t IF :1;$/;"	m	struct:__anon1::__anon2	file:
+NT	alu_test.c	/^		uint32_t NT :1;$/;"	m	struct:__anon1::__anon2	file:
+OF	alu_test.c	/^		uint32_t OF :1;$/;"	m	struct:__anon1::__anon2	file:
+OLIP	alu_test.c	/^		uint32_t OLIP :2;$/;"	m	struct:__anon1::__anon2	file:
+PF	alu_test.c	/^		uint32_t PF :1;$/;"	m	struct:__anon1::__anon2	file:
+RF	alu_test.c	/^		uint32_t RF :1;$/;"	m	struct:__anon1::__anon2	file:
+SF	alu_test.c	/^		uint32_t SF :1;$/;"	m	struct:__anon1::__anon2	file:
+TEST_EFLAGS	alu_test.c	/^} TEST_EFLAGS;$/;"	t	typeref:union:__anon1	file:
+TF	alu_test.c	/^		uint32_t TF :1;$/;"	m	struct:__anon1::__anon2	file:
+VM	alu_test.c	/^		uint32_t VM :1;$/;"	m	struct:__anon1::__anon2	file:
+ZF	alu_test.c	/^		uint32_t ZF :1;$/;"	m	struct:__anon1::__anon2	file:
+alu_test	alu_test.c	/^void alu_test(){$/;"	f
+alu_test_adc	alu_test.c	/^void alu_test_adc() {$/;"	f
+alu_test_add	alu_test.c	/^void alu_test_add() {$/;"	f
+alu_test_and	alu_test.c	/^void alu_test_and() {$/;"	f
+alu_test_div	alu_test.c	/^void alu_test_div() {$/;"	f
+alu_test_idiv	alu_test.c	/^void alu_test_idiv() {$/;"	f
+alu_test_imul	alu_test.c	/^void alu_test_imul() {$/;"	f
+alu_test_mul	alu_test.c	/^void alu_test_mul() {$/;"	f
+alu_test_or	alu_test.c	/^void alu_test_or() {$/;"	f
+alu_test_sal	alu_test.c	/^void alu_test_sal() {$/;"	f
+alu_test_sar	alu_test.c	/^void alu_test_sar() {$/;"	f
+alu_test_sbb	alu_test.c	/^void alu_test_sbb() {$/;"	f
+alu_test_shl	alu_test.c	/^void alu_test_shl() {$/;"	f
+alu_test_shr	alu_test.c	/^void alu_test_shr() {$/;"	f
+alu_test_sub	alu_test.c	/^void alu_test_sub() {$/;"	f
+alu_test_xor	alu_test.c	/^void alu_test_xor() {$/;"	f
+big_1	fpu_test.c	/^FLOAT p_zero, n_zero, p_inf, n_inf, p_nan, n_nan, denorm_1, denorm_2, denorm_3, big_1, big_2, small_1, small_2;$/;"	v
+big_2	fpu_test.c	/^FLOAT p_zero, n_zero, p_inf, n_inf, p_nan, n_nan, denorm_1, denorm_2, denorm_3, big_1, big_2, small_1, small_2;$/;"	v
+denorm_1	fpu_test.c	/^FLOAT p_zero, n_zero, p_inf, n_inf, p_nan, n_nan, denorm_1, denorm_2, denorm_3, big_1, big_2, small_1, small_2;$/;"	v
+denorm_2	fpu_test.c	/^FLOAT p_zero, n_zero, p_inf, n_inf, p_nan, n_nan, denorm_1, denorm_2, denorm_3, big_1, big_2, small_1, small_2;$/;"	v
+denorm_3	fpu_test.c	/^FLOAT p_zero, n_zero, p_inf, n_inf, p_nan, n_nan, denorm_1, denorm_2, denorm_3, big_1, big_2, small_1, small_2;$/;"	v
+dummy0	alu_test.c	/^		uint32_t dummy0 :1;$/;"	m	struct:__anon1::__anon2	file:
+dummy1	alu_test.c	/^		uint32_t dummy1 :1;$/;"	m	struct:__anon1::__anon2	file:
+dummy2	alu_test.c	/^		uint32_t dummy2: 1;$/;"	m	struct:__anon1::__anon2	file:
+dummy3	alu_test.c	/^		uint32_t dummy3 :1;$/;"	m	struct:__anon1::__anon2	file:
+dummy4	alu_test.c	/^		uint32_t dummy4 :14;$/;"	m	struct:__anon1::__anon2	file:
+fpu_test	fpu_test.c	/^void fpu_test() {$/;"	f
+fpu_test_add	fpu_test.c	/^void fpu_test_add() {$/;"	f
+fpu_test_div	fpu_test.c	/^void fpu_test_div() {$/;"	f
+fpu_test_mul	fpu_test.c	/^void fpu_test_mul() {$/;"	f
+fpu_test_sub	fpu_test.c	/^void fpu_test_sub() {$/;"	f
+n_inf	fpu_test.c	/^FLOAT p_zero, n_zero, p_inf, n_inf, p_nan, n_nan, denorm_1, denorm_2, denorm_3, big_1, big_2, small_1, small_2;$/;"	v
+n_nan	fpu_test.c	/^FLOAT p_zero, n_zero, p_inf, n_inf, p_nan, n_nan, denorm_1, denorm_2, denorm_3, big_1, big_2, small_1, small_2;$/;"	v
+n_zero	fpu_test.c	/^FLOAT p_zero, n_zero, p_inf, n_inf, p_nan, n_nan, denorm_1, denorm_2, denorm_3, big_1, big_2, small_1, small_2;$/;"	v
+p_inf	fpu_test.c	/^FLOAT p_zero, n_zero, p_inf, n_inf, p_nan, n_nan, denorm_1, denorm_2, denorm_3, big_1, big_2, small_1, small_2;$/;"	v
+p_nan	fpu_test.c	/^FLOAT p_zero, n_zero, p_inf, n_inf, p_nan, n_nan, denorm_1, denorm_2, denorm_3, big_1, big_2, small_1, small_2;$/;"	v
+p_zero	fpu_test.c	/^FLOAT p_zero, n_zero, p_inf, n_inf, p_nan, n_nan, denorm_1, denorm_2, denorm_3, big_1, big_2, small_1, small_2;$/;"	v
+small_1	fpu_test.c	/^FLOAT p_zero, n_zero, p_inf, n_inf, p_nan, n_nan, denorm_1, denorm_2, denorm_3, big_1, big_2, small_1, small_2;$/;"	v
+small_2	fpu_test.c	/^FLOAT p_zero, n_zero, p_inf, n_inf, p_nan, n_nan, denorm_1, denorm_2, denorm_3, big_1, big_2, small_1, small_2;$/;"	v
+val	alu_test.c	/^	uint32_t val;	$/;"	m	union:__anon1	file:
