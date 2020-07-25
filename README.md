@@ -10,6 +10,6 @@ Debian 32-bit with desktop environment (tested with MATE)
 
 git clone https://github.com/ics-pa/pa2017.git
 
-# Guide book
- 
-https://cs.nju.edu.cn/wangliang/pa2017.html
+# Note
+
+For students who need to complete pa, please don’t copy.
